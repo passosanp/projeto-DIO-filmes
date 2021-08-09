@@ -14,11 +14,16 @@
   width: calc(100% - 50px);
 }
 
+.mat-card-title{
+  text-align: justify;
+}
+
 .mat-card-image {
   width: 182px;
   height: 268px;
   margin: auto;
   display: block;
+  margin-bottom: 10px;
 }
 
 @media screen and (min-width: 525px) {
